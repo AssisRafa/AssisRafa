@@ -66,6 +66,7 @@ const rafael = {
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
+| 🎨 **Portfólio UI Design** | Portfólio de UI Design com Next.js e React | Next.js · React · CSS Modules | [![Ver](https://img.shields.io/badge/Ver-4466ff?style=for-the-badge&logoColor=white)](https://rafaelassis-portfolio.netlify.app) |
 | 🏥 **Aura Clínica** | Site institucional para clínica médica | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa/Aura-Clinica) |
 | ⌚ **Chronos Relógios** | E-commerce de relógios de luxo | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa/E-commerce-de-relogios-de-luxo) |
 | 🚗 **BMW Landing Page** | Landing page conceitual de automóvel | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa/Landing-Page-BMW) |
