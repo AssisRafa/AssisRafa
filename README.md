@@ -26,7 +26,6 @@ const rafael = {
   stack:       ["HTML", "CSS", "JS", "React", "Next.js"],
   design:      ["Canva", "Figma"],
   ferramentas: ["Git", "GitHub", "VS Code"],
-  estudando:   "ADS — Análise e Dev de Sistemas",
   missão:      "Design + Código = Experiências únicas 🚀"
 };
 ```
