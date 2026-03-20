@@ -106,7 +106,7 @@ const rafael = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelassisdev)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-4466ff?style=for-the-badge&logo=vercel&logoColor=white)](https://rafaelassisportfolio.netlify.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512996217977)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelassis864@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=rafaelassis864@gmail.com)
 
 </div>
 
