@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER ANIMADO PREMIUM -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:4466ff&height=220&section=header&text=Rafael%20Assis&fontSize=65&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=UI%20Designer%20%26%20Dev%20Front-end&descSize=22&descAlignY=62&descAlign=50&descColor=4466ff&animation=fadeIn&stroke=4466ff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Rafael%20Assis&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=UI%20Designer%20%26%20Dev%20Front-end&descSize=20&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%" />
 
 <!-- TYPING ANIMADO -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=4466FF&center=true&vCenter=true&width=650&height=50&lines=Transformando+ideias+em+interfaces+reais+%F0%9F%8E%A8;UI+Design+%2B+Front-end+%3D+%E2%9D%A4%EF%B8%8F;Next.js+%7C+React+%7C+HTML+%7C+CSS+%7C+JS+%F0%9F%9A%80;Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B" />
