@@ -18,7 +18,6 @@ const rafael = {
   foco:        ["Interfaces modernas", "UX/UI", "Componentes React"],
   tecnologias: ["HTML5", "CSS3", "JavaScript", "React", "Next.js"],
   ferramentas: ["Canva", "Git", "GitHub", "VS Code"],
-  estudando:   "Análise e Desenvolvimento de Sistemas",
   missão:      "Unir design e código para criar experiências únicas 🚀"
 };
 ```
