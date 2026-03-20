@@ -13,9 +13,9 @@
 
 </div>
 
-<br/>
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<table>
+<tr>
+<td valign="top" width="70%">
 
 ## 👨‍💻 Sobre mim
 
@@ -31,7 +31,14 @@ const rafael = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="30%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
