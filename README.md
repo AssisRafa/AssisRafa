@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- BANNER ANIMADO PREMIUM -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Rafael%20Assis&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=UI%20Designer%20%26%20Dev%20Front-end&descSize=20&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%" />
+<!-- TÍTULO ANIMADO -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=36&duration=2000&pause=500&color=4466FF&center=true&vCenter=true&width=600&height=80&lines=Rafael+Assis+%F0%9F%9A%80;UI+Designer+%26+Dev+Front-end" />
 
 <!-- TYPING ANIMADO -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=4466FF&center=true&vCenter=true&width=650&height=50&lines=Transformando+ideias+em+interfaces+reais+%F0%9F%8E%A8;UI+Design+%2B+Front-end+%3D+%E2%9D%A4%EF%B8%8F;Next.js+%7C+React+%7C+HTML+%7C+CSS+%7C+JS+%F0%9F%9A%80;Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B" />
