@@ -39,7 +39,6 @@ const rafael = {
 
 | Projeto | Tecnologias | Link |
 |--------|-------------|------|
-| 🎨 **Portfólio UI Design** | Next.js · React · CSS Modules | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://rafaelassis-portfolio.netlify.app) |
 | 🏥 **Aura Clínica** | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa) |
 | ⌚ **Chronos Relógios** | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa) |
 | 🚗 **BMW Landing Page** | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa) |
