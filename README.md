@@ -39,9 +39,9 @@ const rafael = {
 
 | Projeto | Tecnologias | Link |
 |--------|-------------|------|
-| 🏥 **Aura Clínica** | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa) |
-| ⌚ **Chronos Relógios** | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa) |
-| 🚗 **BMW Landing Page** | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa) |
+| 🏥 **Aura Clínica** | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa/Aura-Clinica) |
+| ⌚ **Chronos Relógios** | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa/E-commerce-de-relogios-de-luxo) |
+| 🚗 **BMW Landing Page** | HTML · CSS · JS | [![Ver](https://img.shields.io/badge/Ver%20Projeto-4466ff?style=for-the-badge&logoColor=white)](https://github.com/AssisRafa/Landing-Page-BMW) |
 
 </div>
 
